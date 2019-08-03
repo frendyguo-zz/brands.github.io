@@ -1,0 +1,282 @@
+[
+  {
+    "name": "3M",
+    "organization": "The 3M Company",
+    "country": "United States",
+    "color": "red",
+    "image_url": "3m.png"
+  },
+  {
+    "name": "Ace Hardware",
+    "organization": "Ace Hardware Corporation",
+    "country": "United States",
+    "color": "red",
+    "image_url": "ace-hardware.png"
+  },
+  {
+    "name": "Adobe",
+    "organization": "Adobe Inc.",
+    "country": "United States",
+    "color": "red",
+    "image_url": "adobe.png"
+  },
+  {
+    "name": "ADP",
+    "organization": "Automatic Data Processing, Inc.",
+    "country": "United States",
+    "color": "red",
+    "image_url": "adp.png"
+  },
+  {
+    "name": "Airbnb",
+    "organization": "A‌i‌r‌b‌n‌b‌, ‌ ‌I‌n‌c‌.‌",
+    "country": "United States",
+    "color": "red",
+    "image_url": "airbnb.png"
+  },
+  {
+    "name": "Avis",
+    "organization": "Avis Car Rental",
+    "country": "United States",
+    "color": "red",
+    "image_url": "avis.png"
+  },
+  {
+    "name": "Bass",
+    "organization": "The Bass Brewery",
+    "country": "United Kingdom",
+    "color": "red",
+    "image_url": "bass.png"
+  },
+  {
+    "name": "Canon",
+    "organization": "Canon Inc.",
+    "country": "Japan",
+    "color": "red",
+    "image_url": "canon.png"
+  },
+  {
+    "name": "Circle-K",
+    "organization": "Circle K Stores Inc.",
+    "country": "Canada",
+    "color": "red",
+    "image_url": "circle-k.png"
+  },
+  {
+    "name": "CNN",
+    "organization": "Cable News Network",
+    "country": "United States",
+    "color": "red",
+    "image_url": "cnn.png"
+  },
+  {
+    "name": "Coca-Cola",
+    "organization": "The Coca-Cola Company",
+    "country": "United States",
+    "color": "red",
+    "image_url": "coca-cola.png"
+  },
+  {
+    "name": "Colgate",
+    "organization": "Colgate",
+    "country": "United States",
+    "color": "red",
+    "image_url": "colgate.png"
+  },
+  {
+    "name": "ESPN",
+    "organization": "ESPN",
+    "country": "United States",
+    "color": "red",
+    "image_url": "espn.png"
+  },
+  {
+    "name": "Exxon",
+    "organization": "Exxon Mobil Corporation",
+    "country": "United States",
+    "color": "red",
+    "image_url": "exxon.png"
+  },
+  {
+    "name": "H&M",
+    "organization": "Hennes & Mauritz AB",
+    "country": "Sweden",
+    "color": "red",
+    "image_url": "hnm.png"
+  },
+  {
+    "name": "HSBC",
+    "organization": "HSBC Holdings plc",
+    "country": "United Kingdom",
+    "color": "red",
+    "image_url": "hsbc.png"
+  },
+  {
+    "name": "Heinz",
+    "organization": "The H. J. Heinz Company",
+    "country": "United States",
+    "color": "red",
+    "image_url": "heinz.png"
+  },
+  {
+    "name": "Kellogg's",
+    "organization": "The Kellogg Company",
+    "country": "United States",
+    "color": "red",
+    "image_url": "kelloggs.png"
+  },
+  {
+    "name": "KFC",
+    "organization": "KFC",
+    "country": "United States",
+    "color": "red",
+    "image_url": "kfc.png"
+  },
+  {
+    "name": "Kmart",
+    "organization": "Kmart Corporation",
+    "country": "United States",
+    "color": "red",
+    "image_url": "kmart.png"
+  },
+  {
+    "name": "Lego",
+    "organization": "Lego A/S",
+    "country": "Denmark",
+    "color": "red",
+    "image_url": "lego.png"
+  },
+  {
+    "name": "Levi's",
+    "organization": "Levi Strauss & Co.",
+    "country": "United States",
+    "color": "red",
+    "image_url": "levis.png"
+  },
+  {
+    "name": "LG",
+    "organization": "LG Electronics Inc.",
+    "country": "South Korea",
+    "color": "red",
+    "image_url": "lg.png"
+  },
+  {
+    "name": "Mitsubishi Motors",
+    "organization": "Mitsubishi Motors Corporation",
+    "country": "Japan",
+    "color": "red",
+    "image_url": "mitsubishi-motors.png"
+  },
+  {
+    "name": "Marvel",
+    "organization": "Marvel Entertainment, LLC",
+    "country": "United States",
+    "color": "red",
+    "image_url": "marvel.png"
+  },
+  {
+    "name": "Netflix",
+    "organization": "Netflix, Inc.",
+    "country": "United States",
+    "color": "red",
+    "image_url": "netflix.png"
+  },
+  {
+    "name": "Nintendo",
+    "organization": "Nintendo Co., Ltd.",
+    "country": "Japan",
+    "color": "red",
+    "image_url": "nintendo.png"
+  },
+  {
+    "name": "Oracle",
+    "organization": "Oracle Corporation",
+    "country": "United States",
+    "color": "red",
+    "image_url": "oracle.png"
+  },
+  {
+    "name": "Pinterest",
+    "organization": "Pinterest, Inc.",
+    "country": "United States",
+    "color": "red",
+    "image_url": "pinterest.png"
+  },
+  {
+    "name": "Qantas",
+    "organization": "Qantas Airways Limited",
+    "country": "Australia",
+    "color": "red",
+    "image_url": "qantas.png"
+  },
+  {
+    "name": "Rolling Stone",
+    "organization": "Rolling Stone",
+    "country": "United States",
+    "color": "red",
+    "image_url": "rolling-stone.png"
+  },
+  {
+    "name": "Target",
+    "organization": "Target Corporation",
+    "country": "United States",
+    "color": "red",
+    "image_url": "target.png"
+  },
+  {
+    "name": "Telkom Indonesia",
+    "organization": "PT Telekomunikasi Indonesia Tbk",
+    "country": "Indonesia",
+    "color": "red",
+    "image_url": "telkom-indonesia.png"
+  },
+  {
+    "name": "Texaco",
+    "organization": "Texaco, Inc.",
+    "country": "United States",
+    "color": "red",
+    "image_url": "texaco.png"
+  },
+  {
+    "name": "Time",
+    "organization": "Time Magazine",
+    "country": "United States",
+    "color": "red",
+    "image_url": "time-magazine.png"
+  },
+  {
+    "name": "Uniqlo",
+    "organization": "Uniqlo Co., Ltd.",
+    "country": "Japan",
+    "color": "red",
+    "image_url": "uniqlo.png"
+  },
+  {
+    "name": "Virgin",
+    "organization": "Virgin Group Ltd.",
+    "country": "United Kingdom",
+    "color": "red",
+    "image_url": "virgin.png"
+  },
+  {
+    "name": "Wells Fargo",
+    "organization": "Wells Fargo & Company",
+    "country": "United States",
+    "color": "red",
+    "image_url": "wells-fargo.png"
+  },
+  {
+    "name": "Xerox",
+    "organization": "Xerox Corporation",
+    "country": "United States",
+    "color": "red",
+    "image_url": "xerox.png"
+  },
+  {
+    "name": "YouTube",
+    "organization": "YouTube",
+    "country": "United States",
+    "color": "red",
+    "image_url": "youtube.png"
+  }
+]
